@@ -17,7 +17,7 @@ This is my homelab for testing and learning, this blog will document my lab.
 - Explaining code
 - How things work
 
-### C Hello World:
+### C Hello World
 
 ```c
 #include <stdio.h>
